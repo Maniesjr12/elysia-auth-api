@@ -13,6 +13,11 @@ Access the interactive API docs here:
 
 Swagger Docs: http://localhost:3000/docs
 
+Environment Variables:
+
+DATABASE_URL
+JWT_SECRET
+
 To install dependencies:
 
 ```bash
